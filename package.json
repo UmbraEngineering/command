@@ -18,5 +18,8 @@
     "process"
   ],
   "author": "James Brumond",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "merge-recursive": "0.0.3"
+  }
 }
