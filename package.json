@@ -1,0 +1,22 @@
+{
+  "name": "command",
+  "version": "0.0.0",
+  "description": "A chainable, promise-based utility for running commands with child_process.spawn",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/UmbraEngineering/command"
+  },
+  "keywords": [
+    "command",
+    "cli",
+    "spawn",
+    "child",
+    "process"
+  ],
+  "author": "James Brumond",
+  "license": "MIT"
+}
