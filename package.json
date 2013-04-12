@@ -21,6 +21,6 @@
   "license": "MIT",
   "dependencies": {
     "merge-recursive": "0.0.3",
-    "which": "1.5.0"
+    "which": "1.0.5"
   }
 }
