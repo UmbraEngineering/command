@@ -1,6 +1,6 @@
 {
   "name": "command",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A chainable, promise-based utility for running commands with child_process.spawn",
   "main": "lib/index.js",
   "scripts": {
